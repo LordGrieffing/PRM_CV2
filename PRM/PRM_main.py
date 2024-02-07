@@ -6,7 +6,7 @@ import networkx as nx
 import random as rd
 import math
 import time
-import find_frontier_cell as ff
+import PRM.find_frontier_cell as ff
 
 
 
