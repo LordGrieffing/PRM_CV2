@@ -26,5 +26,10 @@ This libary is designed to use .pgm files which is a grayscale file format
 * Obstacles are denoted as a color of 0
 * Unknown / Unexplored space is denoted as a color of 205
 
+## Example of output
+Here is an example of how the output might look. This example is map 2 in a 2 map sequence, meaning that one map came before it. Note that the visual display you see here is recreated in sequence_example.py to help you visualize what the graph looks like. But this is not implemented else where.
+![Map 2 before graphing](/resources/assets/cropped_map2.png)
+![Map 2 after graphing](/resources/assets/cropped_PRM_map2.png)
+
 ## Contributions
 The frontier identification for this code was written by [Kenzo450D](https://github.com/Kenzo450D).
